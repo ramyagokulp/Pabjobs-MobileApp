@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\entities",
+    "\\lib\\pages",
+    "\\lib\\pages\\recruiter",
+    "\\lib\\pages\\recruiter\\my_jobs",
+    "\\lib\\pages\\recruiter\\my_jobs\\view_page",
+    "\\lib\\pages\\recruiter\\post_job",
+    "\\lib\\pages\\recruiter\\profile",
+    "\\lib\\pages\\recruiter\\profile\\company_profile"
+  ],
+  "SelectedNode": "\\lib\\pages\\recruiter\\my_jobs\\my_job_controller.dart",
+  "PreviewInSolutionExplorer": false
+}

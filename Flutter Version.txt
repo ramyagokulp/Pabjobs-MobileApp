@@ -1,0 +1,4 @@
+Flutter (Channel stable, 2.10.5, on Microsoft Windows [Version 10.0.19044.1826], locale en-IN)
+Android toolchain - develop for Android devices (Android SDK version 32.0.0)
+Android Studio (version 2020.3)
+VS Code (version 1.69.2)
